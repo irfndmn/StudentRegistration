@@ -36,7 +36,7 @@ public class Entity {
             System.out.println("Q to Terminate, Press Any Key to Continue");
             String a = scan.next();
             if (a.equalsIgnoreCase("q")) {
-                System.out.println(obj.aLy());
+                System.out.println(User.m);
                 break;
             }
         }while (true);

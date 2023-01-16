@@ -53,6 +53,7 @@ public class User {
         setUsNam();
         setUserPsw();
         setUsLis();
+        aLy();
 
     }
 
